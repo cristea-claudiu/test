@@ -1,0 +1,32 @@
+@font-face{
+    font-family: digital;
+    src: url(./digital-7.ttf);
+}
+
+h4{
+    background-color: rgb(18, 119, 40);
+    font-size: 50px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 25px;
+}
+.digital-clock{
+    background-color: rgb(43, 39, 39);
+    color: greenyellow;
+    border-radius: 0.5rem;
+    display: flex;
+    font-family: digital;
+    margin: 2rem 0;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    font-size: 2rem;
+    padding:1rem;
+    .time{
+        font-size: 5rem;
+    }
+    
+
+
+
+}

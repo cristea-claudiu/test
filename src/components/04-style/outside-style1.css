@@ -1,0 +1,19 @@
+.react-hooks h4{
+    background-color: blue;
+    font-size: 50px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 25px;
+    
+}
+.react-hooks ul li{
+    list-style-type: none;
+    font-size: 20px;
+    color: blueviolet;
+
+}
+.react-hooks ul{
+    border: 3px solid black;
+    border-radius: 15%;
+    background-color: aliceblue;
+}
